@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/Java%20-brown.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![C#](https://img.shields.io/badge/C#%20-brown.svg?&style=for-the-badge&logo=C#&logoColor=white)
+![Csharp](https://img.shields.io/badge/Csharp%20-brown.svg?&style=for-the-badge&logo=Csharp#&logoColor=white)
 
 
 ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
