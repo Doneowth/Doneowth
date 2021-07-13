@@ -15,7 +15,7 @@
 ![Flask](https://img.shields.io/badge/flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot%20-%2307405e.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![Pygame](https://img.shields.io/badge/pygame%20-%23013243.svg?&style=for-the-badge&logo=pygame&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab%20-%23F37626.svg?&style=for-the-badge&logo=Matlab&logoColor=white)
 
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -25,6 +25,7 @@
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Pycharm](https://img.shields.io/badge/pycharm%20-%23121011.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
