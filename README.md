@@ -30,7 +30,7 @@
 
 
 ![Pycharm](https://img.shields.io/badge/pycharm%20-%23121011.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
-![Intelij](https://img.shields.io/badge/intelij%20-%23121011.svg?&style=for-the-badge&logo=intelij&logoColor=white)
+![Intellij](https://img.shields.io/badge/intellij%20-%23121011.svg?&style=for-the-badge&logo=intellij&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider%20-%23121011.svg?&style=for-the-badge&logo=Rider&logoColor=white)
 
 ---
