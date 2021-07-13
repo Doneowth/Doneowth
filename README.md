@@ -1,11 +1,11 @@
 ## YOHO~
 - 👋 Hi, I’m Don @Doneowth
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning computer vision, algorithm, machine learning
-- 📫 How to reach me WeChat: LD1203002996
+- 👀 I’m interested in Computer Vision, Machine Leaerning
+- 📫 How to reach me Email: liang.don@northeastern.edu
 
 ### Tech Spec:
-![C](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20-brown.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
