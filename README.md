@@ -32,6 +32,8 @@
 ![Pycharm](https://img.shields.io/badge/pycharm%20-%23121011.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJIdea](https://img.shields.io/badge/IntelliJIdea%20-%23121011.svg?&style=for-the-badge&logo=IntelliJIdea&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider%20-%23121011.svg?&style=for-the-badge&logo=Rider&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity%20-%23121011.svg?&style=for-the-badge&logo=Unity&logoColor=white)
+
 
 ---
 
