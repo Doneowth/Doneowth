@@ -1,7 +1,6 @@
 ## YOHO~
-- 👋 Hi, I’m Don @Doneowth
+- 👋 Hi, I’m Dom
 - 👀 I’m interested in Computer Vision, Machine Leaerning
-- 📫 How to reach me Email: liang.don@northeastern.edu
 
 ### Tech Spec:
 ![Java](https://img.shields.io/badge/Java%20-brown.svg?&style=for-the-badge&logo=Java&logoColor=white)
